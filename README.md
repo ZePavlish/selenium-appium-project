@@ -1,8 +1,3 @@
-# Перейдите в папку проекта
-cd C:\Users\pavli\IdeaProjects\selenium-appium-project
-
-# Создайте README.md
-cat > README.md << 'EOF'
 # 🚀 Selenium & Appium Test Automation Project
 
 ![Java](https://img.shields.io/badge/Java-25-orange)
