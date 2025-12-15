@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Wikipedia Web Tests Suite" verbose="1">
+    <test name="Wikipedia Web Tests">
+        <classes>
+            <class name="org.example.tests.web.WikipediaWebTests"/>
+        </classes>
+    </test>
+</suite>
